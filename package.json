@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/auth",
+  "name": "authyt",
   "version": "3.4.1",
   "description": "Authentication module for Nuxt.js",
   "license": "MIT",
@@ -12,7 +12,7 @@
     }
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/nuxt-community/auth-module",
+  "repository": "https://github.com/q474026268/auth-module",
   "publishConfig": {
     "access": "public"
   },
