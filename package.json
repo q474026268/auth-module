@@ -1,6 +1,6 @@
 {
   "name": "authyt",
-  "version": "3.4.1",
+  "version": "3.4.6",
   "description": "Authentication module for Nuxt.js",
   "license": "MIT",
   "contributors": [
@@ -44,7 +44,8 @@
     "@nuxtjs/axios": "^4.0.1",
     "cookie": "^0.3.1",
     "js-cookie": "^2.2.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "md5": "^2.3.0"
   },
   "devDependencies": {
     "nuxt-module-builder": "latest"
